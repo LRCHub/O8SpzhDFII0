@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "いいひと",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-09T19:15:36.343817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いいひと",
+      "artist": "Sid",
+      "has_synced": true,
+      "path": "select/01_いいひと_Sid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "それなりに いいひと",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": true,
+      "path": "select/02_それなりに_いいひと_PRINCESS_PRINCESS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いいひと",
+      "artist": "高橋優",
+      "has_synced": false,
+      "path": "select/03_いいひと_高橋優.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ii Hito (いいひと)",
+      "artist": "Golden Bomber (ールデンボンバー)",
+      "has_synced": false,
+      "path": "select/04_Ii_Hito_(いいひと)_Golden_Bomber_(ールデンボンバー).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いいひと",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_いいひと_ゴールデンボンバー.txt"
+    }
+  ]
+}
